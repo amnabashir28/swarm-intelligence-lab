@@ -1,5 +1,5 @@
 import random
-random.seed(70)   
+random.seed(59)   
 
 def f(x):
     return (x - 7) ** 2 + 4  
